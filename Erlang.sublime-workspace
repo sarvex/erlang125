@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"defa",
+				"default_line_ending"
+			],
+			[
+				"spel",
+				"spell_check"
+			],
+			[
+				"alwa",
+				"always_show_minimap_viewport"
+			],
+			[
+				"high",
+				"highlight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"reade",
+				"ReadmePlease"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"code",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 314.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sjatas/Workspace/Python/top5.png",
+		"/C/Users/sjatas/Workspace/Python/top-languages-python.png",
+		"/C/Users/sjatas/Workspace/Python/top-languages-python-2013-07-22.png",
+		"/C/Users/sjatas/Workspace/Python/README-scratch.md",
+		"/C/Users/sjatas/Workspace/Python/.gitignore",
+		"/C/Users/sjatas/Workspace/Python/top5-2013-07-22 13_10_30.png",
+		"/C/ATG/ATG10.0.3/BBBStore/EStore/src/com/bbb/commerce/checkout/tibco/SubmitOrderMarshaller.java",
+		"/C/Users/sjatas/Workspace/trunk_cr_19_july_2013/BBBStore/EStore/config/atg/sitemap/StaticSitemapGenerator.properties",
+		"/C/Users/sjatas/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/sjatas/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/sjatas/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/sjatas/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/sjatas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sjatas/AppData/Roaming/Sublime Text 3/Packages/User/LineEndings.sublime-settings",
+		"/C/Users/sjatas/AppData/Roaming/Sublime Text 3/Packages/LineEndings/LineEndings.sublime-settings",
+		"/C/ATG/ATG10.0.3/BBBStore/StoreFront/j2ee-apps/BBBStore/store.war/giftregistry/frags/registry_items_guest_price.jsp",
+		"/C/Users/sjatas/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/sjatas/Documents/Access_Details.txt",
+		"/C/Users/sjatas/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/ATG/ATG10.0.3/BBBStore/EStore/src/com/bbb/account/BBBProfileFormHandler.java",
+		"/C/ATG/ATG10.0.3/BBBStore/EStore/config/com/bbb/commerce/giftregistry/droplet/SelectHeaderDroplet.properties",
+		"/C/ATG/ATG10.0.3/BBBStore/EStore/config/atg/dynamo/servlet/dafpipeline/AccessControlServlet.properties",
+		"/C/Users/sjatas/Documents/protocol.log",
+		"/C/ATG/ATG10.0.3/BBBStore/core/src/com/bbb/constants/BBBGiftRegistryConstants.java",
+		"/C/ATG/ATG10.0.3/BBBStore/EStore/src/com/bbb/pipeline/BBBReferralController.java",
+		"/C/ATG/ATG10.0.3/BBBStore/EStore/src/com/bbb/pipeline/UserPreferencePipeline.java",
+		"/C/ATG/ATG10.0.3/BBBStore/StoreFront/j2ee-apps/BBBStore/store.war/giftregistry/view_registry_owner.jsp",
+		"/C/ATG/ATG10.0.3/BBBStore/core/src/com/bbb/framework/security/HideUrlSessionFilter.java",
+		"/C/ATG/ATG10.0.3/BBBStore/StoreFront/j2ee-apps/BBBStore/store.war/giftregistry/frags/view_manage_registry.jsp",
+		"/C/ATG/ATG10.0.3/BBBStore/StoreFront/j2ee-apps/BBBStore/store.war/addgiftregistry/addItemToRegisteryStatus.jsp",
+		"/C/ATG/ATG10.0.3/BBBStore/EStore/config/com/bbb/commerce/promotion/CouponRuleRepository.properties",
+		"/C/ATG/ATG10.0.3/BBBStore/core/src/com/bbb/order/bean/BaseCommerceItemImpl.java",
+		"/C/ATG/ATG10.0.3/BBBStore/EStore/config/com/bbb/commerce/promotion/CouponRuleRepository.xml",
+		"/C/ATG/ATG10.0.3/BBBStore/EStore/src/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.java",
+		"/C/ATG/ATG10.0.3/BBBStore/EStore/src/com/bbb/commerce/catalog/BBBCatalogToolsImpl.java",
+		"/C/ATG/ATG10.0.3/BBBStore/core/src/com/bbb/commerce/catalog/BBBCatalogTools.java",
+		"/C/ATG/ATG10.0.3/BBBStore/revertChanges.bat"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\ATG\\ATG10.0.3\\BBBStore",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"“",
+			"productId",
+			"\"p",
+			"productId",
+			"delete",
+			"line",
+			",\n",
+			"view_registry_owner.jsp",
+			"legacyUserBoolean",
+			"legacyuserboolean",
+			"mLegacyUser",
+			"pLegacyUser",
+			"view",
+			"accordion",
+			"CouponRepository"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"project": "Erlang.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"submitordermarshaller.java",
+				"EStore\\src\\com\\bbb\\commerce\\checkout\\tibco\\SubmitOrderMarshaller.java"
+			],
+			[
+				"registry_items_ge",
+				"StoreFront\\j2ee-apps\\BBBStore\\store.war\\giftregistry\\frags\\registry_items_guest_price.jsp"
+			],
+			[
+				"hide",
+				"core\\src\\com\\bbb\\framework\\security\\HideUrlSessionFilter.java"
+			],
+			[
+				"view_re",
+				"StoreFront\\j2ee-apps\\BBBStore\\store.war\\giftregistry\\view_registry_owner.jsp"
+			],
+			[
+				"userpre",
+				"EStore\\src\\com\\bbb\\pipeline\\UserPreferencePipeline.java"
+			],
+			[
+				"referal",
+				"EStore\\src\\com\\bbb\\pipeline\\BBBReferralController.java"
+			],
+			[
+				"view_regist",
+				"StoreFront\\j2ee-apps\\BBBStore\\store.war\\giftregistry\\view_registry_owner.jsp"
+			],
+			[
+				"basecom",
+				"core\\src\\com\\bbb\\order\\bean\\BaseCommerceItemImpl.java"
+			],
+			[
+				"profileform",
+				"EStore\\src\\com\\bbb\\account\\BBBProfileFormHandler.java"
+			],
+			[
+				"giftregistryform",
+				"EStore\\src\\com\\bbb\\commerce\\giftregistry\\formhandler\\GiftRegistryFormHandler.java"
+			],
+			[
+				"catalogtools",
+				"core\\src\\com\\bbb\\commerce\\catalog\\BBBCatalogTools.java"
+			],
+			[
+				"coupon",
+				"EStore\\config\\com\\bbb\\commerce\\promotion\\CouponRuleRepository.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\sjatas\\Workspace\\trunk_cr_19_july_2013\\CR.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 442.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
